@@ -1,2 +1,2 @@
 # JavaScript-Advanced
-Part of the JavaScript Core module at SoftUni
+SoftUni - JavaScript Core 2018 - Second Module Advanced 
