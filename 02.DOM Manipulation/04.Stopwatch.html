@@ -10,48 +10,34 @@
 <button id="stopBtn" disabled="true">Stop</button>
 <script>
     window.onload = function () {
-        stopwatch();
-    };
-
-    function stopwatch() {
-
-        let startBtn = document.getElementById('startBtn');
-        let stopBtn = document.getElementById('stopBtn');
-
-        startBtn.addEventListener('click', start);
-        stopBtn.addEventListener('click', stop);
-
-        let timer = document.getElementById('time');
-        let totalTime;
-
+        let time = document.getElementById('time');
+        let start = document.getElementById('startBtn');
+        let stop = document.getElementById('stopBtn');
+        start.addEventListener('click', startwatch);
+        stop.addEventListener('click', stopwatch);
         let interval;
-        function start() {
-            totalTime=0;
-            startBtn.disabled = true;
-            stopBtn.disabled = false;
-            increment();
-            interval = setInterval(increment, 1000);
-        }
-        function increment() {
 
-           let minutes = Math.floor(totalTime / 60);
-            let seconds = Math.floor(totalTime % 60);
-            if (seconds < 10) {
-                seconds = "0" + seconds;
+        function startwatch() {
+            stop.disabled = false;
+            start.disabled = true;
+            time.textContent = "00:00";
+            let totalTime = 0;
+            interval = setInterval(countUp, 1000);
+
+            function countUp() {
+                totalTime++;
+                let min = parseInt(totalTime/60);
+                let sec = parseInt(totalTime%60);
+                time.textContent = ("0"+ min).slice(-2) +":"+("0"+ sec).slice(-2);
             }
-            if (minutes < 10) {
-                minutes = "0" + minutes;
-            }
-            timer.textContent = minutes + ":" + seconds;
-            totalTime++;
         }
-        function stop() {
-            startBtn.disabled = false;
-            stopBtn.disabled = true;
+
+        function stopwatch() {
+            stop.disabled = true;
+            start.disabled = false;
             clearInterval(interval);
         }
     }
-
 </script>
 </body>
 </html>

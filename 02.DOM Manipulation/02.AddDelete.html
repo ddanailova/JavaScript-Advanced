@@ -12,25 +12,23 @@
        onclick="addItem()">
 <script>
     function addItem() {
-        let input = document.getElementById('newText');
-        let ul = document.getElementById('items');
         let li = document.createElement('li');
+        let input = document.getElementById('newText');
+
         if(input.value.length > 0){
             li.textContent = input.value;
-            ul.appendChild(li);
+            input.value="";
+            document.getElementById('items').appendChild(li);
         }
 
-        let linkForDelete = document.createElement('a');
-        linkForDelete.href = "#";
-        linkForDelete.textContent ="[Delete]";
-        linkForDelete.addEventListener('click', deleteItem);
-        li.appendChild(linkForDelete);
-
-        input.value = "";
-
+        let a = document.createElement('a');
+        a.href='#';
+        a.textContent = '[Delete]';
+        a.addEventListener('click', deleteItem);
+        li.appendChild(a);
         function deleteItem(event) {
-            let liForDelete = event.target.parentNode;
-            liForDelete.parentNode.removeChild(liForDelete);
+            let liToDelete = event.target.parentNode;
+            liToDelete.parentNode.removeChild(liToDelete);
         }
     }
 </script>

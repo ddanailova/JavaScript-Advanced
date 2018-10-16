@@ -45,6 +45,22 @@ Email: <input type="text" name="email"/>
         }
         document.getElementById('result').textContent = "Not found.";
     }
+
+    function deleteByEmail2() {
+        let email = document.querySelector('input[name=email]');
+
+        if(email.value.length > 0){
+            let listOfEmails = document.querySelectorAll('#customers td:nth-child(2)');
+            let tdMatch = Array.from(listOfEmails).filter(e=>e.textContent===email.value);
+
+            if(tdMatch[0]){
+                tdMatch[0].parentNode.parentNode.removeChild(tdMatch[0].parentNode);
+            }else{
+                document.getElementById('result').textContent = 'Not found.'
+            }
+        }
+        email.value ="";
+    }
 </script>
 </body>
 </html>
