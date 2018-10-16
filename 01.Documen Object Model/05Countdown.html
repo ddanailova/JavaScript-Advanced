@@ -10,12 +10,13 @@
     window.onload = function() { countdown(600); };
 
 function countdown(startTime) {
-    let time= startTime;
+    let time = startTime;
     let box = document.getElementById('time');
     let intervalID = setInterval(decrement, 1000);
+
     function decrement() {
         time--;
-        box.value=Math.trunc(time/':' + (time%60)).slice(-2);
+        box.value = Math.trunc(time / 60) + ':' + (time % 60);
     }
 }
 </script>
