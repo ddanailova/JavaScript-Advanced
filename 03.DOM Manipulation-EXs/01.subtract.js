@@ -1,6 +1,7 @@
 function subtract() {
+
     let firstNum = document.getElementById('firstNumber').value;
     let secondNum = document.getElementById('secondNumber').value;
 
-    document.getElementById('outputDistance').textContent = Number(firstNum) - Number(secondNum);
+    document.getElementById('result').textContent = Number(firstNum) - Number(secondNum);
 }

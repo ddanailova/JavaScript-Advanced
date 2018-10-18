@@ -21,3 +21,27 @@ function attachEventsListeners() {
         document.getElementById('seconds').value= min*60;
     }
 }
+
+function attachEventsListenersObj() {
+    let buttons = document.querySelectorAll('input[value="Convert"]');
+    Array.from(buttons).forEach(btn => btn.addEventListener('click', convert));
+    let time;
+
+    let timeInDays = {
+        daysBtn:(value)=>value,
+        hoursBtn:(value)=>value/24,
+        minutesBtn:(value)=>(value/24)/60,
+        secondsBtn:(value)=>((value/24)/60)/60,
+    };
+    function convert(event) {
+        let id = event.target.id;
+        let timeValue = event.target.parentNode.childNodes[3].value;
+        if(timeValue !== ""){
+            time = timeInDays[id](timeValue);
+            document.getElementById('days').value = time;
+            document.getElementById('hours').value = time*24;
+            document.getElementById('minutes').value = time*24*60;
+            document.getElementById('seconds').value = time*24*60*60;
+        }
+    }
+}

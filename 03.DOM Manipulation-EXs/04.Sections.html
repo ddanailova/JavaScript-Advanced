@@ -27,20 +27,20 @@
 </div>
 <body onload="create(['Section 1', 'Section 2', 'Section 3', 'Section 4']);">
 <script>
-    function create(sentences) {
-        let content = document.getElementById('content');
-        for (let sentence of sentences) {
-            let newDiv = document.createElement('div');
-            let newP = document.createElement('p');
-            newP.style.display = 'none';
-            newP.textContent = sentence;
-            newDiv.appendChild(newP);
-            newDiv.addEventListener('click', function () {
-                newP.style.display = 'block'
-            });
-            content.appendChild(newDiv);
-        }
+function create(inputArr) {
+    let content = document.getElementById('content');
+
+    function showText(event){
+        event.target.childNodes[0].style.display="block";
     }
+
+    inputArr.forEach(str => {
+        let currentDiv = document.createElement('div');
+        currentDiv.innerHTML = `<p style="display: none">${str}<\p>`;
+        currentDiv.addEventListener('click',showText);
+        content.appendChild(currentDiv);
+    });
+}
 </script>
 </body>
 </html>

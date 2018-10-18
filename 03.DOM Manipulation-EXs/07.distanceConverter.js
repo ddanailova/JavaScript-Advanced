@@ -56,6 +56,5 @@ function attachEventsListeners() {
         } else if (selectedTo.value === "in") {
             outputDistance.value = distanceInMeters/0.0254;
         }
-
     }
 }
