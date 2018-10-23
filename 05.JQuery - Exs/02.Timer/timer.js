@@ -2,15 +2,18 @@ function timer() {
     let secunds = $('#seconds');
     let minutes = $('#minutes');
     let hours = $('#hours');
-    let interval;
+    let interval = null;
 
     $('#start-timer').on('click', function () {
-        clearInterval(interval);
-        interval = setInterval(increment, 1000);
+        if(interval === null){
+            interval = setInterval(increment, 1000);
+        }
+
     });
 
     $('#stop-timer').on('click', function () {
         clearInterval(interval);
+        interval = null;
     });
 
     function increment() {
