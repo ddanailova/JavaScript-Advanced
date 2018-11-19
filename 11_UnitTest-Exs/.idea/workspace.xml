@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd2ae830-1fcb-4d85-932d-d92bf40d969b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../05.JQuery - Exs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07.Advanced_functions_Exs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07.Advanced_functions_Exs/01_Sort_Array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07.Advanced_functions_Exs/03_Functional_Sum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07.Advanced_functions_Exs/04_Personal_BMI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07.Advanced_functions_Exs/07_Breakfast_Robot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07.Advanced_functions_Exs/08_Monkey_Patcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07.Advanced_functions_Exs/3_Argument_Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07.Advanced_functions_Exs/6_Vector_Math.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_Object Composition/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08_Object Composition/01.Order_Rectangles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09_Object Composition-Exs/.idea/09_Object Composition-Exs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09_Object Composition-Exs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09_Object Composition-Exs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09_Object Composition-Exs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09_Object Composition-Exs/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09_Object Composition-Exs/01_ArrayExtension.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09_Object Composition-Exs/02_ConstructionCrew.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09_Object Composition-Exs/03_CarFactory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09_Object Composition-Exs/05_StringЕxtension.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09_Object Composition-Exs/06_SortedList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09_Object Composition-Exs/bugTracker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09_Object Composition-Exs/highlight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_UnitTests/01_SubSum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_UnitTests/02_PlayingCards.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_UnitTests/03_DeckOfCards.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_UnitTests/05_CheckForSymmetry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_UnitTests/test/04_SumOfnumbers_Test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_UnitTests/test/05_CheckForSymmetry_Test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_UnitTests/test/06_RGB_to_Hex_Tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_UnitTests/test/07_Add_Subtract.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_ RequestValidator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_CharLookup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared-object.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared-object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/02_EvenOrOdd_tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/03_CharLookup_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/04_MathEnforcer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/05_SharedObject-test.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1213108672">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="js" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JavaScript" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="16" />
+          <entry key="js" value="2497" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="16" />
+          <entry key="JavaScript" value="2497" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/05_SharedObject-test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shared-object.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shared-object.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01_ RequestValidator.js" />
+        <option value="$PROJECT_DIR$/02_EvenOrOdd.js" />
+        <option value="$PROJECT_DIR$/test/02_EvenOrOdd_tests.js" />
+        <option value="$PROJECT_DIR$/02_CharLookup.js" />
+        <option value="$PROJECT_DIR$/test/04_MathEnforcer.js" />
+        <option value="$PROJECT_DIR$/03_CharLookup.js" />
+        <option value="$PROJECT_DIR$/test/03_CharLookup_test.js" />
+        <option value="$PROJECT_DIR$/shared-object.js" />
+        <option value="$PROJECT_DIR$/shared-object.html" />
+        <option value="$PROJECT_DIR$/test/05_SharedObject-test.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="387" />
+    <option name="y" value="20" />
+    <option name="width" value="757" />
+    <option name="height" value="920" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.MochaTest">
+    <configuration name="01_ RequestValidator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="01_ RequestValidator.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="MochaTest" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/test</test-directory>
+      <recursive>false</recursive>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.MochaTest" />
+      <item itemvalue="Node.js.01_ RequestValidator.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.01_ RequestValidator.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd2ae830-1fcb-4d85-932d-d92bf40d969b" name="Default Changelist" comment="" />
+      <created>1541064079042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541064079042</updated>
+      <workItem from="1541064080618" duration="14673000" />
+      <workItem from="1541261286955" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MochaTest - 2018.11.01 at 15h 23m 57s.xml">
+      <configuration name="MochaTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="MochaTest - 2018.11.01 at 15h 24m 19s.xml">
+      <configuration name="MochaTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="MochaTest - 2018.11.01 at 15h 33m 58s.xml">
+      <configuration name="MochaTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="MochaTest - 2018.11.01 at 15h 34m 40s.xml">
+      <configuration name="MochaTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="MochaTest - 2018.11.01 at 15h 35m 38s.xml">
+      <configuration name="MochaTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="MochaTest - 2018.11.01 at 16h 13m 21s.xml">
+      <configuration name="MochaTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="MochaTest - 2018.11.01 at 16h 17m 48s.xml">
+      <configuration name="MochaTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="MochaTest - 2018.11.01 at 16h 54m 08s.xml">
+      <configuration name="MochaTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="MochaTest - 2018.11.01 at 16h 54m 25s.xml">
+      <configuration name="MochaTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="MochaTest - 2018.11.01 at 17h 00m 42s.xml">
+      <configuration name="MochaTest" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14749000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="387" y="20" width="757" height="920" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.15589353" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32884097" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32614556" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3994911" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.15589353" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32884097" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32614556" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3994911" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/02_EvenOrOdd_tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_EvenOrOdd.js" />
+    <entry file="file://$PROJECT_DIR$/01_ RequestValidator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_CharLookup.js" />
+    <entry file="file://$PROJECT_DIR$/test/04_MathEnforcer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="23" selection-start-line="23" selection-end-line="167" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/03_CharLookup_test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_CharLookup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/05_SharedObject-test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shared-object.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shared-object.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
